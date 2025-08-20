@@ -6,10 +6,9 @@
 
 ## 🎯 Sobre mim
 
-Estudante de IA na FATEC Rio Claro, apaixonado por dados, automação e desenvolvimento. Foco em Python, IA aplicada e Azure.
+Estudante de IA na FATEC Rio Claro, entusiasta por computação, automação e desenvolvimento. Foco em Python.
 
-- 🔭 Atualmente: evoluindo o projeto SentinelaAI (IA + IoT + dashboard)
-- ☁️ Estudando: arquitetura em nuvem na Azure (labs e boas práticas)
+- ☁️ Estudando: Banco de dados e mineração de dados
 - 🧪 Praticando: projetos didáticos e utilitários em Python
 
 ## 🛠️ Tecnologias
