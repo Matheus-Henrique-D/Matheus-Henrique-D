@@ -6,18 +6,21 @@
 
 ## 🎯 Sobre mim
 
-Estudante de IA na FATEC Rio Claro, entusiasta por computação, automação e desenvolvimento. Foco em Python.
+Estudante de Tecnologia (IA/Data Science) na FATEC Rio Claro, com experiência prévia em suporte de TI, relatórios SQL e sistemas de gestão hospitalar (Oracle Database, Tasy). Hoje foco em Python, machine learning e projetos que unem dados reais a impacto prático — de risco de crédito a saúde pública.
 
-- ☁️ Estudando: Banco de dados e mineração de dados
-- 🧪 Praticando: projetos didáticos e utilitários em Python
+- ☁️ Estudando: banco de dados, mineração de dados e modelagem preditiva
+- 🧪 Praticando: pipelines de ML de ponta a ponta, dashboards interativos e projetos aplicados em equipe
 
 ## 🛠️ Tecnologias
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/LightGBM-black?style=for-the-badge" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/AI%2FML-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI/ML" />
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
 </div>
 
@@ -30,31 +33,43 @@ Estudante de IA na FATEC Rio Claro, entusiasta por computação, automação e d
 ## 🚀 Projetos em destaque
 
 <div align="center">
+  <a href="https://github.com/Matheus-Henrique-D/Motor-de-Risco-Transacional" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Henrique-D&repo=Motor-de-Risco-Transacional&theme=dark&hide_border=true" alt="Motor de Risco Transacional" />
+  </a>
+  <a href="https://github.com/Matheus-Henrique-D/NutriAlerta" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Henrique-D&repo=NutriAlerta&theme=dark&hide_border=true" alt="NutriAlerta" />
+  </a>
   <a href="https://github.com/Matheus-Henrique-D/SentinelaAI" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Henrique-D&repo=SentinelaAI&theme=dark&hide_border=true" alt="Projeto SentinelaAI" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Henrique-D&repo=SentinelaAI&theme=dark&hide_border=true" alt="SentinelaAI" />
   </a>
-  <a href="https://github.com/Matheus-Henrique-D/Fatec-atividades---2025" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Henrique-D&repo=Fatec-atividades---2025&theme=dark&hide_border=true" alt="Atividades da Fatec" />
-  </a>
-  <a href="https://github.com/Matheus-Henrique-D/Dio-Azure" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Henrique-D&repo=Dio-Azure&theme=dark&hide_border=true" alt="Portfólio Azure & IA" />
-  </a>
-  <a href="https://github.com/Matheus-Henrique-D/Verificador-de-Email" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Henrique-D&repo=Verificador-de-Email&theme=dark&hide_border=true" alt="Verificador de Email" />
+  <a href="https://github.com/Matheus-Henrique-D/protocolo-de-Manchester" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Henrique-D&repo=protocolo-de-Manchester&theme=dark&hide_border=true" alt="Protocolo de Manchester" />
   </a>
 </div>
 
 ### 🔎 Resumo dos principais projetos
 
-- **SentinelaAI**: sistema de monitoramento preditivo da qualidade do ar com classificação híbrida (regras + IA), previsão 24h e dashboard interativo em Flet. Tecnologias: Python, Pandas/NumPy, Scikit-learn, Statsmodels, Matplotlib.
+- **[Motor de Risco Transacional](https://github.com/Matheus-Henrique-D/Motor-de-Risco-Transacional)** — Sistema de risco de crédito multi-tabelas para clientes desbancarizados, desenvolvido em hackathon de Data Science. Pipeline com LightGBM, 248 features agregadas de 6 tabelas (bureau, parcelas, cartão, propostas anteriores), validação cruzada estratificada e otimização de threshold por impacto financeiro (Profit Curve), com interface Streamlit para decisão de crédito.
+  - Tecnologias: Python, LightGBM, Pandas, Scikit-learn, Streamlit
+  - Rodar demo: `streamlit run app.py`
+
+- **[NutriAlerta](https://github.com/Matheus-Henrique-D/NutriAlerta)** — Ecossistema de saúde pública para mapear e prever desnutrição/obesidade infantil na rede de ensino de Rio Claro-SP. Projeto interdisciplinar em equipe (3º semestre), com dois portais Next.js (gestor e coleta escolar), banco Supabase/PostgreSQL com RLS, modelo de Machine Learning (Random Forest) para projeção de prevalência a 2 anos, e assistente NutriBot integrado ao Gemini. Já em produção: [nutri-alerta.vercel.app](https://nutri-alerta.vercel.app/)
+  - Tecnologias: Next.js, TypeScript, Python, Supabase, Scikit-learn
+
+- **[SentinelaAI](https://github.com/Matheus-Henrique-D/SentinelaAI)**: sistema de monitoramento preditivo da qualidade do ar com classificação híbrida (regras + IA), previsão 24h e dashboard interativo em Flet.
+  - Tecnologias: Python, Pandas/NumPy, Scikit-learn, Statsmodels, Matplotlib
   - Rodar demo: `cd SentinelaAI && pip install -r requirements.txt && python demo_simple.py`
 
-- **Dio-Azure**: coleção de estudos, labs e melhores práticas em Azure e IA. Cobertura de serviços de computação, storage, rede, banco de dados, segurança e monitoramento.
+- **[Protocolo de Manchester](https://github.com/Matheus-Henrique-D/protocolo-de-Manchester)** — Simulador de triagem hospitalar em Python (atividade de Estrutura de Dados), usando árvore de decisão para classificar urgência e filas FIFO por prioridade (Vermelho > Laranja > Amarelo > Verde > Azul).
+  - Rodar: `python main.py`
 
-- **Verificador de Email**: app GUI (CustomTkinter) e versão terminal para validar formato, provedor e domínio.
+- **[Raspador de Dados](https://github.com/Matheus-Henrique-D/Raspador-de-dados)** — Web scraper em Python que extrai e organiza dados de um site com BeautifulSoup, exportando o resultado para CSV.
+  - Tecnologias: Python, BeautifulSoup, Requests
+
+- **[Verificador de Email](https://github.com/Matheus-Henrique-D/Verificador-de-Email)**: app GUI (CustomTkinter) e versão terminal para validar formato, provedor e domínio de e-mails.
   - Rodar GUI: `cd "Verificador email" && python verificador_completo.py`
-  - Repositório:
-    <a href="https://github.com/Matheus-Henrique-D/Verificador-de-Email" target="_blank"><img alt="Verificador de Email" src="https://img.shields.io/badge/Verificador%20de%20Email-009688?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+- **[Dio-Azure](https://github.com/Matheus-Henrique-D/Dio-Azure)**: coleção de estudos, labs e boas práticas em Azure e IA — computação, storage, rede, banco de dados, segurança e monitoramento.
 
 ## 🔗 Contato
 
