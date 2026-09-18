@@ -1,9 +1,5 @@
 # 👋 Olá, eu sou Matheus!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Henrique-D&theme=dark&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats" />
-</div>
-
 ## 🎯 Sobre mim
 
 Estudante de Tecnologia (IA/Data Science) na FATEC Rio Claro, com experiência prévia em suporte de TI, relatórios SQL e sistemas de gestão hospitalar (Oracle Database, Tasy). Hoje foco em Python, machine learning e projetos que unem dados reais a impacto prático — de risco de crédito a saúde pública.
@@ -27,7 +23,7 @@ Estudante de Tecnologia (IA/Data Science) na FATEC Rio Claro, com experiência p
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Henrique-D&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Matheus-Henrique-D/Matheus-Henrique-D/main/github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 ## 🚀 Projetos em destaque
