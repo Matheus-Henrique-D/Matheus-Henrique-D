@@ -30,16 +30,16 @@ Estudante de Tecnologia (IA/Data Science) na FATEC Rio Claro, com experiência p
 
 <div align="center">
   <a href="https://github.com/Matheus-Henrique-D/Motor-de-Risco-Transacional" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Henrique-D&repo=Motor-de-Risco-Transacional&theme=dark&hide_border=true" alt="Motor de Risco Transacional" />
+    <img src="https://img.shields.io/badge/Motor%20de%20Risco%20Transacional-Repository-181717?logo=github&logoColor=white" alt="Motor de Risco Transacional" />
   </a>
   <a href="https://github.com/Matheus-Henrique-D/NutriAlerta" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Henrique-D&repo=NutriAlerta&theme=dark&hide_border=true" alt="NutriAlerta" />
+    <img src="https://img.shields.io/badge/NutriAlerta-Repository-181717?logo=github&logoColor=white" alt="NutriAlerta" />
   </a>
   <a href="https://github.com/Matheus-Henrique-D/SentinelaAI" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Henrique-D&repo=SentinelaAI&theme=dark&hide_border=true" alt="SentinelaAI" />
+    <img src="https://img.shields.io/badge/SentinelaAI-Repository-181717?logo=github&logoColor=white" alt="SentinelaAI" />
   </a>
   <a href="https://github.com/Matheus-Henrique-D/protocolo-de-Manchester" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Matheus-Henrique-D&repo=protocolo-de-Manchester&theme=dark&hide_border=true" alt="Protocolo de Manchester" />
+    <img src="https://img.shields.io/badge/Manchester-Repository-181717?logo=github&logoColor=white" alt="Protocolo de Manchester" />
   </a>
 </div>
 
